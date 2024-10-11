@@ -2,9 +2,9 @@
 
 This section provides an overview of deploying Django applications and explores popular platforms for hosting:
 
-- **Overview of Deployment**:
-  - Gain insights into the deployment process, including key considerations for preparing your Django application for production.
-
-- **Overview of Popular Platforms**:
-  - Explore some of the most popular platforms for deploying Django applications.
+- **Overview of Deployment** 
+- **Types of Hosting Providers**
+- **Amazon Web Services (AWS)**
+- **Docker for Django Projects**
+- **Continuous Integration/Continuous Deployment (CI/CD)**
     
