@@ -10,3 +10,8 @@ This section provides an overview of deploying Django applications and explores 
 
 ---
 🌐 Online sources 
+
+- **Deploy Django - Choose Provider** - https://www.w3schools.com/django/django_deploy_provider.php
+- **Deploy Django - Create Requirements** - https://www.w3schools.com/django/django_deploy_requirements.php
+- **Deploy Django - django.config** - https://www.w3schools.com/django/django_deploy_config.php
+- **Deploy Django - Elastic Beanstalk** - https://www.w3schools.com/django/django_deploy_eb.php
