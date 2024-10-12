@@ -7,4 +7,6 @@ This section provides an overview of deploying Django applications and explores 
 - **Amazon Web Services (AWS)** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/amazon_web_services.md
 - **Docker for Django Projects** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/docker_for_django_projects.md
 - **Continuous Integration/Continuous Deployment (CI/CD)** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/continuous_integration_continuous_deployment.md
-    
+
+---
+🌐 Online sources 
